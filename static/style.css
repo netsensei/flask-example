@@ -1,0 +1,22 @@
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.boxed {
+    padding: 1em;
+    background: pink;
+    border: 5px solid red;
+}
+
+.comical {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 2em;
+}
+
+h1 {
+    font-family: "Courier New", Courier, monospace;
+}
